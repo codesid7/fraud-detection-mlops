@@ -1,5 +1,7 @@
-data/
-models/*.joblib
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
 mlflow.db
 mlruns/
 logs/
