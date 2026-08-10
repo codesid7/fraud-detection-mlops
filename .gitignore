@@ -1,0 +1,10 @@
+data/
+models/*.joblib
+mlflow.db
+mlruns/
+logs/
+_pycache_/
+.ipynb_checkpoints/
+*.env
+.vscode/*
+!.vscode/settings.json
